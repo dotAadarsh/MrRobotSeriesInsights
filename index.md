@@ -4,6 +4,12 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Decrypting Mr. Robot
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to "Decrypting Mr. Robot" where we embark on a thrilling journey through the complex and enigmatic world of the hit TV series, Mr. Robot, to uncover profound lessons and educational gems hidden within each episode.
+
+Mr. Robot, created by Sam Esmail, is not just a gripping psychological thriller; it's a treasure trove of knowledge and thought-provoking ideas that delve into the realms of hacking, cybersecurity, psychology, and societal issues. Our blog is your ultimate guide to exploring the educational facets of this groundbreaking show.
+
+Join us as we dissect and analyze the intricate plotlines, intriguing characters, and cutting-edge technology featured in Mr. Robot.
+
+<!-- ![Mr. Robot Bkg](-IMG_URL-) -->
